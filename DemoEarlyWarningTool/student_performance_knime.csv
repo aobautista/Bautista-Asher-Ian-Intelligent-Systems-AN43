@@ -1,0 +1,21 @@
+student_id,study_hours,attendance_percent,previous_grade,assignments_completed,risk_status
+S001,2,58,62,4,At Risk
+S002,3,64,65,5,At Risk
+S003,4,69,68,6,At Risk
+S004,5,72,70,6,At Risk
+S005,6,75,72,7,At Risk
+S006,7,78,74,7,At Risk
+S007,8,81,76,8,On Track
+S008,9,83,78,8,On Track
+S009,10,85,80,9,On Track
+S010,11,87,82,9,On Track
+S011,12,89,84,10,On Track
+S012,13,91,86,10,On Track
+S013,14,93,88,10,On Track
+S014,15,95,90,10,On Track
+S015,1,52,55,3,At Risk
+S016,3,61,60,4,At Risk
+S017,6,76,73,7,At Risk
+S018,8,82,77,8,On Track
+S019,11,88,83,9,On Track
+S020,14,94,89,10,On Track
